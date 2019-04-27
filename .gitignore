@@ -1,1 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
+Будет удалено .idea/
+Будет удалено dist/
+Будет удалено node_modules/
+Будет удалено server/.gitignore
+Будет удалено server/.mvn/
+Будет удалено server/pom.xml
+Будет удалено server/src/main/resources/static/
+Будет удалено server/src/main/resources/templates/
